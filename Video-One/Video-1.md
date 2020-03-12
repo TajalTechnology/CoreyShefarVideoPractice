@@ -2,6 +2,7 @@
 ##Create a virtual envirnment
 
 => python3 -m venv virtualEnvirnment
+
 ##Active your virtual envirnment
 
 => source virtualEnvirnment/bin/activate
